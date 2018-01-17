@@ -1,0 +1,19 @@
+{
+  "name": "light-switch",
+  "version": "1.0.0",
+  "description": "Amazon Lambda project to control Wink smart lights with Amazon Dash IoT button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanchanpsu/light-switch.git"
+  },
+  "author": "Stanley Chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanchanpsu/light-switch/issues"
+  },
+  "homepage": "https://github.com/stanchanpsu/light-switch#readme"
+}
