@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/stanchanpsu/light-switch/issues"
   },
-  "homepage": "https://github.com/stanchanpsu/light-switch#readme"
+  "homepage": "https://github.com/stanchanpsu/light-switch#readme",
+  "dependencies": {
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
 }
